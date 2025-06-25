@@ -1,0 +1,8 @@
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=umasecretamuitoseguraaqui
+# MONGODB_URI=mongodb://mongoadmin:secret@127.0.0.1:27017/ 
+MONGODB_URI=mongodb://localhost:27017
+NODE_ENV=development
+AUTH_SECRET="wqMEJQe51Qroqq1uXHIUbKMrimjlZBWLXltQyBYi5og="
+DATABASE_URL="postgresql://user:password@localhost:5432/mydb"
+JWT_SECRET="supersecret"
